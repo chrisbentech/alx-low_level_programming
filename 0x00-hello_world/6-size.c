@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
 *main - A programe that prints various computer types
-*Return 0 (meaning programe is successful)
+*Return: 0 (meaning programe is successful)
 */
 int main(void)
 {
