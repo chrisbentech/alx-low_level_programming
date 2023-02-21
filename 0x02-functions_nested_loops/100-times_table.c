@@ -32,9 +32,9 @@ void print_number(int n)
 }
 
 /**
-* print_times_table - prints times table up to n times
-* @n: times table to print
-* Return: void
+*print_times_table - prints times table up to n times
+*@n: times table to print
+*Return: void
 */
 void print_times_table(int n)
 {
